@@ -128,4 +128,4 @@ RIGHT JOIN TableB b ON a.id = b.id;
 ```
 - **Result:** Combines both unmatched rows from `LEFT JOIN` and `RIGHT JOIN`.
 
-Let me know if you need further clarification or additional examples!
+
